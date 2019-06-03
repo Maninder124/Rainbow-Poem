@@ -5,4 +5,5 @@ and this is a new line added
 fairy is being added
 
 and now master branch has been altered
+This is a change done my rajwinder in order to check the feature of pull request
 
